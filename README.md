@@ -1,8 +1,8 @@
 # SYMB_Assignment
 
-#  Flatly Landing Page Clone (SYMB_Assignment)
+#  Flatty Landing Page Clone (SYMB_Assignment)
 
-This project is a static, fully mobile-responsive landing page designed to replicate the clean, modern look of a flat-style UI template (named "Flatly"). It is built using pure HTML and CSS.
+This project is a static, fully mobile-responsive landing page designed to replicate the clean, modern look of a flat-style UI template (named "Flatty"). It is built using pure HTML and CSS.
 
 ## 🔗 Live Deployment
 
